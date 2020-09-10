@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emrah Sariboz
+title: Emrah
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student at NMSU
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
