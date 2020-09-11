@@ -25,16 +25,22 @@ date_format = "Jan 2006"
   date_start = "08/20/2019"
   date_end = ""
   description = """
+  
+  Responsibilities include:
+  
+    * Analysing
+    * Modelling
+    * Deploying
+  
   """
 
 [[experience]]
-  title = "Research Assistant"
-    company = "Sam Houston State University"
-    company_url = ""
-    location = "Texas"
-    date_start = "08/10/2018"
-    date_end = ""
-    description = """
-  """
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
